@@ -1,5 +1,3 @@
-Segue um `README.md` profissional para acompanhar o seu projeto no GitHub.
-
 # 🌸 HKIA Flower Tracker
 
 Um rastreador de coleção para **Hello Kitty Island Adventure**, desenvolvido para acompanhar o progresso das flores obtidas durante o jogo.
